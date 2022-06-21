@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 #include "rozgrywka.hpp"
 #include "gracz.hpp"
 #include "bledy.hpp"

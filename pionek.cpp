@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 #include "pionek.hpp"
 
 using namespace std;

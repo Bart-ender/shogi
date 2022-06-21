@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 #include "legenda.hpp"
 using namespace std;
 

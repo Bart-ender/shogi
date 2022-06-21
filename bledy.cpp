@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 #include "bledy.hpp"
 #include "pozycja.hpp"
 #include "plansza.hpp"

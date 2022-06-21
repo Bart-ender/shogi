@@ -1,6 +1,5 @@
 #ifndef PLANSZA_HPP
 #define PLANSZA_HPP
-#include<bits/stdc++.h>
 #include "pozycja.hpp"
 #include "pionek.hpp"
 //x- odpowiada sa to krówy wiersz; za która kolumne

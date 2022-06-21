@@ -1,6 +1,6 @@
 #ifndef POZYCJA_HPP
 #define POZYCJA_HPP
-#include<bits/stdc++.h>
+#include <string>
 //f3 - mała litera liczba; litery-wierszy; liczby-kolumny
 class pozycja{
     public:

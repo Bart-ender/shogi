@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 #include "pozycja.hpp"
 using namespace std;
 

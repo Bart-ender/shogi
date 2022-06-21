@@ -1,8 +1,7 @@
 #ifndef PIONEK_HPP
 #define PIONEK_HPP
 #include "pozycja.hpp"
-#include<bits/stdc++.h>
-
+#include <vector>
 class pozycja;
 
 class pionek{

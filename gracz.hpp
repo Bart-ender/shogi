@@ -1,7 +1,7 @@
 #ifndef GRACZ_HPP
 #define GRACZ_HPP
-#include<bits/stdc++.h>
-
+#include <vector>
+#include <string>
 class pionek;
 class gracz{
     bool ktory;

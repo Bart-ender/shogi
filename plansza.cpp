@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 #include "plansza.hpp"
 #include "gracz.hpp"
 //#include "pozycja.hpp"

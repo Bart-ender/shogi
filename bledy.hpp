@@ -1,6 +1,5 @@
 #ifndef BLEDY_HPP
 #define BLEDY_HPP
-#include<bits/stdc++.h>
 #include "pozycja.hpp"
 
 class plansza;

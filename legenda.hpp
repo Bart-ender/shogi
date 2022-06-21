@@ -1,6 +1,6 @@
 #ifndef LEGENDA_HPP
 #define LEGENDA_HPP
-#include<bits/stdc++.h>
+#include <string>
 using namespace std;
 
 class legenda{
